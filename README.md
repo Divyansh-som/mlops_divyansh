@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 AutoValue — Car Price Predictor
 ### FastAPI + SQLite + Gradient Boosting ML (No Docker — runs directly with Python)
 
@@ -75,3 +76,7 @@ autovalue_local/
 | PUT | `/cars/{id}` | Update + re-predict |
 | DELETE | `/cars/{id}` | Delete car |
 | GET | `/stats` | Analytics summary |
+=======
+# mlops_divyansh
+MLOPS project
+>>>>>>> f19aeb4c76800b26fafdda7b48d2d8372834c21d
