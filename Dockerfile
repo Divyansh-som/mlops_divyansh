@@ -1,5 +1,5 @@
 # 1. Base Image: Choose the operating system and language runtime
-FROM python:3.9-slim
+FROM python:3.9
 
 # 2. Working Directory: Set up where your files will live inside the container
 WORKDIR /app
